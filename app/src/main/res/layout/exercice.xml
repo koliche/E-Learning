@@ -18,21 +18,27 @@
     <RadioGroup
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
+
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="<!DOCTYPE html5>"
-            android:layout_margin="7dp"></RadioButton>
+            android:layout_margin="7dp"
+            android:minHeight="48dp"
+            android:text="!DOCTYPE html5"></RadioButton>
+
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="<!DOCTYPE html>"
-            android:layout_margin="7dp"></RadioButton>
+            android:layout_margin="7dp"
+            android:minHeight="48dp"
+            android:text="!DOCTYPE html"></RadioButton>
+
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="<!DOCTYPE html PUBLIC '-//W3C//DTD HTML5.0 Strict//EN'>"
-            android:layout_margin="7dp"></RadioButton>
+            android:layout_margin="7dp"
+            android:minHeight="48dp"
+            android:text="!DOCTYPE html PUBLIC '-//W3C//DTD HTML5.0 Strict//EN'"></RadioButton>
 
     </RadioGroup>
 
