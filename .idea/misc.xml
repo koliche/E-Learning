@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/koliche/AndroidStudioProjects/ELearning/app/src/main/res/layout/activity_main.xml" value="0.225" />
-        <entry key="..\:/Users/koliche/AndroidStudioProjects/ELearning/app/src/main/res/layout/activity_splash_screen.xml" value="0.225" />
-        <entry key="..\:/Users/koliche/AndroidStudioProjects/ELearning/app/src/main/res/layout/exercice.xml" value="0.225" />
-        <entry key="..\:/Users/koliche/AndroidStudioProjects/ELearning/app/src/main/res/layout/formation.xml" value="0.225" />
+        <entry key="..\:/Users/Public/Downloads/E-Learning/app/src/main/res/layout-land/activity_main.xml" value="0.1693121693121693" />
+        <entry key="..\:/Users/Public/Downloads/E-Learning/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/Public/Downloads/E-Learning/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Public/Downloads/E-Learning/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/Public/Downloads/E-Learning/app/src/main/res/layout/exercice.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Public/Downloads/E-Learning/app/src/main/res/layout/formation.xml" value="0.22" />
+        <entry key="..\:/Users/Public/Downloads/E-Learning/app/src/main/res/layout/souscategory.xml" value="0.2" />
       </map>
     </option>
   </component>

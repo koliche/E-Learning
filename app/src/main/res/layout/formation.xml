@@ -7,18 +7,40 @@
 
     <VideoView
         android:id="@+id/videoView2"
-        android:layout_width="199dp"
-        android:layout_height="119dp"
-        tools:layout_editor_absoluteX="28dp"
-        tools:layout_editor_absoluteY="58dp" />
+        android:layout_width="364dp"
+        android:layout_height="252dp"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="161dp" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/exercices"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/purple_500"
         android:text="Exercices"
-        android:background="@color/purple_200"
         android:textColor="@color/white"
-        tools:layout_editor_absoluteX="88dp"
-        tools:layout_editor_absoluteY="223dp" />
+        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteY="618dp"
+        android:onClick="Exercice"/>
+
+    <Button
+        android:id="@+id/previous"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/purple_500"
+        android:text="Previous"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="462dp"
+        android:onClick="Previous"/>
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/purple_500"
+        android:text="Next"
+        tools:layout_editor_absoluteX="300dp"
+        tools:layout_editor_absoluteY="462dp"
+        android:onClick="Next"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
